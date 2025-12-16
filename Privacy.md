@@ -26,4 +26,4 @@ By using SubZero, you consent to this privacy policy.
 ## 5. Contact Us
 
 If you have any questions regarding privacy while using the App, please contact us via email at:  
-**valivalivali128@gmail.com** (Replace with your email)
+**valivalivali128@gmail.com**
