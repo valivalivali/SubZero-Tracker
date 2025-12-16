@@ -4,10 +4,6 @@
 
 SubZero is a minimalist, privacy-focused subscription tracker for iOS. It helps you track your recurring expenses, visualize your monthly spending, and catch upcoming renewals without ever connecting to your bank account.
 
-<p align="center">
-  <img src="SubZero/Assets.xcassets/AppIcon.appiconset/SubZeroIcon.png" width="120" title="SubZero Icon">
-</p>
-
 ## Features
 
 - **📊 Spending Dashboard**: Instantly see your total monthly and yearly subscription costs.
