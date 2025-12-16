@@ -33,7 +33,7 @@ A: Absolutely! Please open an issue on this GitHub repository or contact us via 
 
 If you have any questions, feedback, or need technical support, please reach out:
 
-- **Email**: valivvalivali128@gmail.com (Replace with your email)
+- **Email**: valivvalivali128@gmail.com
 ---
 
 ## Privacy Policy
